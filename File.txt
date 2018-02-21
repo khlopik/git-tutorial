@@ -5,3 +5,6 @@
 4. Let's start.
 5. This line is added from webstorm and should conflict with web changes.
 6. This line is also added from webstorm.
+7. This changes made from master and they will be lost.
+8. One more changes from master
+9. And one more changes from master.
