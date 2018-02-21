@@ -3,3 +3,5 @@
 2. It will be easier to understand merges and conflicts.
 3. This lines are included in the first commit.
 4. Let's start.
+5. This line is added from webstorm and should conflict with web changes.
+6. This line is also added from webstorm.
