@@ -5,3 +5,5 @@
 4. Let's start.
 5. This line is added from webstorm and should conflict with web changes.
 6. This line is also added from webstorm.
+7. This is feature changes and they will be lost.
+8. One more line of feature changes.
