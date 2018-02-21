@@ -1,0 +1,5 @@
+0. This is initial file for git tutorial.
+1. All lines are numbered.
+2. It will be easier to understand merges and conflicts.
+3. This lines are included in the first commit.
+4. Let's start.
