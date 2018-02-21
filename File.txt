@@ -7,3 +7,4 @@
 6. This line is also added from webstorm.
 7. This is feature changes and they will be lost.
 8. One more line of feature changes.
+This line is added from git web page.
